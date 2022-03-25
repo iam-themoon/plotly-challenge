@@ -1,10 +1,3 @@
-/* 
-
-Thank you to Dr. Arrington for the walkthrough on this assignment!
-
-*/
-
-
 // function that populates the metadata
 function demoInfo(sample)
 {
